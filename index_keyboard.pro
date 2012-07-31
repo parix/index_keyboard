@@ -1,6 +1,6 @@
-update=Monday, July 30, 2012 10:51:50 AM
+update=7/30/2012 7:30:35 PM
 version=1
-last_client=eeschema
+last_client=pcbnew
 [general]
 version=1
 [eeschema]
@@ -21,3 +21,30 @@ LibName3=cherry_2
 LibName4=cherry
 LibName5=dips-s
 LibName6=index_keyboard-cache
+[cvpcb]
+version=1
+NetIExt=net
+[pcbnew]
+version=1
+PadDrlX=320
+PadDimH=600
+PadDimV=600
+BoardThickness=630
+TxtPcbV=800
+TxtPcbH=600
+TxtModV=600
+TxtModH=600
+TxtModW=120
+VEgarde=100
+DrawLar=150
+EdgeLar=150
+TxtLar=120
+MSegLar=150
+LastNetListRead=index_keyboard.net
+[pcbnew/libraries]
+LibDir=
+LibName1=adafruit
+LibName2=atmel
+LibName3=cherry
+LibName4=dips-s
+LibName5=jumper
