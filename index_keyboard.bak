@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 7/30/2012 6:00:11 PM
+EESchema Schematic File Version 2  date 7/30/2012 7:29:34 PM
 LIBS:atmega32u4bb-cache
 LIBS:atmega32u4bb-from_eagle
 LIBS:cherry_2
@@ -1229,11 +1229,11 @@ $EndComp
 $Comp
 L D D13
 U 1 1 4EB9D5EC
-P 7550 1050
-F 0 "D13" H 7550 950 60  0000 C CNN
-F 1 "D" H 7550 1150 60  0000 C CNN
-	1    7550 1050
-	0    1    1    0   
+P 7550 1000
+F 0 "D13" H 7550 900 60  0000 C CNN
+F 1 "D" H 7550 1100 60  0000 C CNN
+	1    7550 1000
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D23
@@ -1346,11 +1346,11 @@ $EndComp
 $Comp
 L D D12
 U 1 1 4EB9D5DB
-P 6850 1050
-F 0 "D12" H 6850 950 60  0000 C CNN
-F 1 "D" H 6850 1150 60  0000 C CNN
-	1    6850 1050
-	0    1    1    0   
+P 6850 1000
+F 0 "D12" H 6850 900 60  0000 C CNN
+F 1 "D" H 6850 1100 60  0000 C CNN
+	1    6850 1000
+	1    0    0    -1  
 $EndComp
 $Comp
 L MX EIGHT1
