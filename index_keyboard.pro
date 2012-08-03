@@ -1,4 +1,4 @@
-update=7/31/2012 7:38:42 PM
+update=8/2/2012 5:33:11 PM
 version=1
 last_client=eeschema
 [general]
@@ -62,11 +62,4 @@ RptD_Y=100
 RptLab=1
 LabSize=60
 [eeschema/libraries]
-LibName1=atmega32u4bb-cache
-LibName2=atmega32u4bb-from_eagle
-LibName3=cherry_2
-LibName4=cherry
-LibName5=dips-s
-LibName6=index_keyboard-cache
-LibName7=adc-dac
-LibName8=74xx
+LibName1=index_keyboard

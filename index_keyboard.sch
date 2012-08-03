@@ -1,12 +1,5 @@
 EESchema Schematic File Version 2  date 7/31/2012 11:28:16 PM
-LIBS:atmega32u4bb-cache
-LIBS:atmega32u4bb-from_eagle
-LIBS:cherry_2
-LIBS:cherry
-LIBS:dips-s
-LIBS:index_keyboard-cache
-LIBS:adc-dac
-LIBS:74xx
+LIBS:index_keyboard
 LIBS:index_keyboard-cache
 EELAYER 25  0
 EELAYER END
