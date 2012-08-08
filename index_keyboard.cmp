@@ -1,0 +1,1025 @@
+Cmp-Mod V01 Created by CvPCB (2011-07-08 BZR 3044)-stable date = 8/7/2012 10:51:04 PM
+
+BeginCmp
+TimeStamp = /4EB9D553;
+Reference = A1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5FD;
+Reference = APOS1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5B0;
+Reference = B1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D615;
+Reference = BCKSLSH1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D612;
+Reference = BCKSPC1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_150H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EE20DCD;
+Reference = BOOT1;
+ValeurCmp = EVQQ2;
+IdModule  = adafruit-EVQ-Q2;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D58B;
+Reference = C1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EE20DCC;
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = adafruit-C0805K;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EE20DC9;
+Reference = C3;
+ValeurCmp = 18pF;
+IdModule  = adafruit-C0805K;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EE20DCA;
+Reference = C4;
+ValeurCmp = 18pF;
+IdModule  = adafruit-C0805K;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EE20DAF;
+Reference = C5;
+ValeurCmp = 0.1uF;
+IdModule  = adafruit-C0805K;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EE20DBC;
+Reference = C6;
+ValeurCmp = 0.1uF;
+IdModule  = adafruit-C0805K;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EE208B5;
+Reference = C7;
+ValeurCmp = 0.1uF;
+IdModule  = adafruit-C0805K;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EE20DCB;
+Reference = C8;
+ValeurCmp = 10uF;
+IdModule  = adafruit-A/3216-18R;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5E1;
+Reference = CMMA1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EE20DB0;
+Reference = CN1;
+ValeurCmp = MiniB_USB;
+IdModule  = adafruit-USB-MINIB;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D51E;
+Reference = CTRL1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_175H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D34A;
+Reference = D1;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D556;
+Reference = D2;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D563;
+Reference = D3;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D591;
+Reference = D4;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D594;
+Reference = D5;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5B6;
+Reference = D6;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5BA;
+Reference = D7;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5CB;
+Reference = D8;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5DB;
+Reference = D9;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5EC;
+Reference = D10;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5EF;
+Reference = D11;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D600;
+Reference = D12;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D603;
+Reference = D13;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D518;
+Reference = D14;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D555;
+Reference = D15;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D564;
+Reference = D16;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D590;
+Reference = D17;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D595;
+Reference = D18;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5B5;
+Reference = D19;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5BB;
+Reference = D20;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5CA;
+Reference = D21;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5DC;
+Reference = D22;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5EB;
+Reference = D23;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5F0;
+Reference = D24;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5FF;
+Reference = D25;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D604;
+Reference = D26;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D58E;
+Reference = D27;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D51F;
+Reference = D28;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D552;
+Reference = D29;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D567;
+Reference = D30;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D58D;
+Reference = D31;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D598;
+Reference = D32;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5B2;
+Reference = D33;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5BE;
+Reference = D34;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5C7;
+Reference = D35;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5DF;
+Reference = D36;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5E8;
+Reference = D37;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5F3;
+Reference = D38;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5FC;
+Reference = D39;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D607;
+Reference = D40;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D523;
+Reference = D41;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D551;
+Reference = D42;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D568;
+Reference = D43;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D58C;
+Reference = D44;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D599;
+Reference = D45;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5B1;
+Reference = D46;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5BF;
+Reference = D47;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5C6;
+Reference = D48;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5E0;
+Reference = D49;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5E7;
+Reference = D50;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5F4;
+Reference = D51;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5FB;
+Reference = D52;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D608;
+Reference = D53;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D52A;
+Reference = D54;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D54E;
+Reference = D55;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D56B;
+Reference = D56;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D589;
+Reference = D57;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D59C;
+Reference = D58;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5AE;
+Reference = D59;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5C2;
+Reference = D60;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D614;
+Reference = D61;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D613;
+Reference = D62;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D617;
+Reference = D63;
+ValeurCmp = D;
+IdModule  = D;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D601;
+Reference = DASH1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D58F;
+Reference = E1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5DA;
+Reference = EIGHT1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D602;
+Reference = EQUAL1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D311;
+Reference = ESC1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D597;
+Reference = F1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5B7;
+Reference = FIVE1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D609;
+Reference = FN1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D593;
+Reference = FOUR1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5F5;
+Reference = FSLSH1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5B3;
+Reference = G1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5BD;
+Reference = H1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5DD;
+Reference = I1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EE20DB3;
+Reference = IC1;
+ValeurCmp = ATMEGA32U4-AU;
+IdModule  = atmel-TQFP44;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EE20DB4;
+Reference = ISP1;
+ValeurCmp = PINHD-2X3THM;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5C8;
+Reference = J1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5DE;
+Reference = K1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5E9;
+Reference = L1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EE20DB7;
+Reference = L2;
+ValeurCmp = RED;
+IdModule  = adafruit-CHIPLED_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D56A;
+Reference = LALT1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_150H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D529;
+Reference = LCTRL1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_150H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D524;
+Reference = LSHFT1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_225H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5FE;
+Reference = LSQBRCK1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D54F;
+Reference = LSUPR1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5C5;
+Reference = M1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5C0;
+Reference = N1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5ED;
+Reference = NINE1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5EA;
+Reference = O1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D557;
+Reference = ONE1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5F1;
+Reference = P1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5E6;
+Reference = PRD1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D554;
+Reference = Q1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D596;
+Reference = R1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /5018B3B2;
+Reference = R2;
+ValeurCmp = 3K;
+IdModule  = adafruit-R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5018CB50;
+Reference = R3;
+ValeurCmp = 3K;
+IdModule  = adafruit-R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5018CB5B;
+Reference = R4;
+ValeurCmp = 3K;
+IdModule  = adafruit-R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5018CB5A;
+Reference = R5;
+ValeurCmp = 3K;
+IdModule  = adafruit-R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EE20DBE;
+Reference = R6;
+ValeurCmp = 22;
+IdModule  = adafruit-R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EE20DBF;
+Reference = R7;
+ValeurCmp = 22;
+IdModule  = adafruit-R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EE20DC2;
+Reference = R8;
+ValeurCmp = 1K;
+IdModule  = adafruit-R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D59B;
+Reference = RATL1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_150H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5C1;
+Reference = RCTRL1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_150H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D606;
+Reference = RENTR1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_225H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5FA;
+Reference = RSHFT1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_175H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D605;
+Reference = RSQBRCK1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5AF;
+Reference = RSUPR1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D566;
+Reference = S1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5CC;
+Reference = SEVEN1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5B9;
+Reference = SIX1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EE20DC4;
+Reference = SJ1;
+ValeurCmp = VCC;
+IdModule  = jumper-SJ;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5F2;
+Reference = SMCLN1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D58A;
+Reference = SPC1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_625H;
+EndCmp
+
+BeginCmp
+TimeStamp = /5018B35C;
+Reference = SW1;
+ValeurCmp = DIPS_04;
+IdModule  = DIPS-DS03;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5B4;
+Reference = T1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D519;
+Reference = TAB1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_150H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D592;
+Reference = THREE1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D616;
+Reference = TILDE1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D562;
+Reference = TWO1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5C9;
+Reference = U1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D59A;
+Reference = V1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D565;
+Reference = W1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D569;
+Reference = X1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EE20DC8;
+Reference = X2;
+ValeurCmp = 16MHz;
+IdModule  = adafruit-NX5032;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5BC;
+Reference = Y1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D550;
+Reference = Z1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB9D5EE;
+Reference = ZERO1;
+ValeurCmp = MX;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+EndListe
