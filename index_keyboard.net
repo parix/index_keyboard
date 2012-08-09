@@ -1,4 +1,4 @@
-# EESchema Netlist Version 1.1 created  8/7/2012 10:51:04 PM
+# EESchema Netlist Version 1.1 created  8/8/2012 8:47:25 PM
 (
  ( /4EB9D553 CHERRY_PCB_100H A1 MX
   ( 1 /COL1 )
@@ -89,107 +89,107 @@
   ( 3 ? )
   ( 4 ? )
  )
- ( /4EB9D34A D D1 D
+ ( /4EB9D34A adafruit-SOD-123 D1 D
   ( 1 N-000128 )
   ( 2 /ROW0 )
  )
- ( /4EB9D556 D D2 D
+ ( /4EB9D556 adafruit-SOD-123 D2 D
   ( 1 N-000220 )
   ( 2 /ROW0 )
  )
- ( /4EB9D563 D D3 D
+ ( /4EB9D563 adafruit-SOD-123 D3 D
   ( 1 N-000208 )
   ( 2 /ROW0 )
  )
- ( /4EB9D591 D D4 D
+ ( /4EB9D591 adafruit-SOD-123 D4 D
   ( 1 N-000181 )
   ( 2 /ROW0 )
  )
- ( /4EB9D594 D D5 D
+ ( /4EB9D594 adafruit-SOD-123 D5 D
   ( 1 N-000186 )
   ( 2 /ROW0 )
  )
- ( /4EB9D5B6 D D6 D
+ ( /4EB9D5B6 adafruit-SOD-123 D6 D
   ( 1 N-000060 )
   ( 2 /ROW0 )
  )
- ( /4EB9D5BA D D7 D
+ ( /4EB9D5BA adafruit-SOD-123 D7 D
   ( 1 N-000065 )
   ( 2 /ROW0 )
  )
- ( /4EB9D5CB D D8 D
+ ( /4EB9D5CB adafruit-SOD-123 D8 D
   ( 1 N-000004 )
   ( 2 /ROW0 )
  )
- ( /4EB9D5DB D D9 D
+ ( /4EB9D5DB adafruit-SOD-123 D9 D
   ( 1 N-000001 )
   ( 2 /ROW0 )
  )
- ( /4EB9D5EC D D10 D
+ ( /4EB9D5EC adafruit-SOD-123 D10 D
   ( 1 N-000094 )
   ( 2 /ROW0 )
  )
- ( /4EB9D5EF D D11 D
+ ( /4EB9D5EF adafruit-SOD-123 D11 D
   ( 1 N-000099 )
   ( 2 /ROW0 )
  )
- ( /4EB9D600 D D12 D
+ ( /4EB9D600 adafruit-SOD-123 D12 D
   ( 1 N-000102 )
   ( 2 /ROW0 )
  )
- ( /4EB9D603 D D13 D
+ ( /4EB9D603 adafruit-SOD-123 D13 D
   ( 1 N-000107 )
   ( 2 /ROW0 )
  )
- ( /4EB9D518 D D14 D
+ ( /4EB9D518 adafruit-SOD-123 D14 D
   ( 1 N-000196 )
   ( 2 /ROW1 )
  )
- ( /4EB9D555 D D15 D
+ ( /4EB9D555 adafruit-SOD-123 D15 D
   ( 1 N-000219 )
   ( 2 /ROW1 )
  )
- ( /4EB9D564 D D16 D
+ ( /4EB9D564 adafruit-SOD-123 D16 D
   ( 1 N-000211 )
   ( 2 /ROW1 )
  )
- ( /4EB9D590 D D17 D
+ ( /4EB9D590 adafruit-SOD-123 D17 D
   ( 1 N-000180 )
   ( 2 /ROW1 )
  )
- ( /4EB9D595 D D18 D
+ ( /4EB9D595 adafruit-SOD-123 D18 D
   ( 1 N-000170 )
   ( 2 /ROW1 )
  )
- ( /4EB9D5B5 D D19 D
+ ( /4EB9D5B5 adafruit-SOD-123 D19 D
   ( 1 N-000035 )
   ( 2 /ROW1 )
  )
- ( /4EB9D5BB D D20 D
+ ( /4EB9D5BB adafruit-SOD-123 D20 D
   ( 1 N-000066 )
   ( 2 /ROW1 )
  )
- ( /4EB9D5CA D D21 D
+ ( /4EB9D5CA adafruit-SOD-123 D21 D
   ( 1 N-000007 )
   ( 2 /ROW1 )
  )
- ( /4EB9D5DC D D22 D
+ ( /4EB9D5DC adafruit-SOD-123 D22 D
   ( 1 N-000026 )
   ( 2 /ROW1 )
  )
- ( /4EB9D5EB D D23 D
+ ( /4EB9D5EB adafruit-SOD-123 D23 D
   ( 1 N-000017 )
   ( 2 /ROW1 )
  )
- ( /4EB9D5F0 D D24 D
+ ( /4EB9D5F0 adafruit-SOD-123 D24 D
   ( 1 N-000100 )
   ( 2 /ROW1 )
  )
- ( /4EB9D5FF D D25 D
+ ( /4EB9D5FF adafruit-SOD-123 D25 D
   ( 1 N-000118 )
   ( 2 /ROW1 )
  )
- ( /4EB9D604 D D26 D
+ ( /4EB9D604 adafruit-SOD-123 D26 D
   ( 1 N-000110 )
   ( 2 /ROW1 )
  )
@@ -199,147 +199,147 @@
   ( 3 ? )
   ( 4 ? )
  )
- ( /4EB9D51F D D28 D
+ ( /4EB9D51F adafruit-SOD-123 D28 D
   ( 1 N-000201 )
   ( 2 /ROW2 )
  )
- ( /4EB9D552 D D29 D
+ ( /4EB9D552 adafruit-SOD-123 D29 D
   ( 1 N-000214 )
   ( 2 /ROW2 )
  )
- ( /4EB9D567 D D30 D
+ ( /4EB9D567 adafruit-SOD-123 D30 D
   ( 1 N-000163 )
   ( 2 /ROW2 )
  )
- ( /4EB9D58D D D31 D
+ ( /4EB9D58D adafruit-SOD-123 D31 D
   ( 1 N-000156 )
   ( 2 /ROW2 )
  )
- ( /4EB9D598 D D32 D
+ ( /4EB9D598 adafruit-SOD-123 D32 D
   ( 1 N-000175 )
   ( 2 /ROW2 )
  )
- ( /4EB9D5B2 D D33 D
+ ( /4EB9D5B2 adafruit-SOD-123 D33 D
   ( 1 N-000040 )
   ( 2 /ROW2 )
  )
- ( /4EB9D5BE D D34 D
+ ( /4EB9D5BE adafruit-SOD-123 D34 D
   ( 1 N-000054 )
   ( 2 /ROW2 )
  )
- ( /4EB9D5C7 D D35 D
+ ( /4EB9D5C7 adafruit-SOD-123 D35 D
   ( 1 N-000014 )
   ( 2 /ROW2 )
  )
- ( /4EB9D5DF D D36 D
+ ( /4EB9D5DF adafruit-SOD-123 D36 D
   ( 1 N-000031 )
   ( 2 /ROW2 )
  )
- ( /4EB9D5E8 D D37 D
+ ( /4EB9D5E8 adafruit-SOD-123 D37 D
   ( 1 N-000022 )
   ( 2 /ROW2 )
  )
- ( /4EB9D5F3 D D38 D
+ ( /4EB9D5F3 adafruit-SOD-123 D38 D
   ( 1 N-000090 )
   ( 2 /ROW2 )
  )
- ( /4EB9D5FC D D39 D
+ ( /4EB9D5FC adafruit-SOD-123 D39 D
   ( 1 N-000113 )
   ( 2 /ROW2 )
  )
- ( /4EB9D607 D D40 D
+ ( /4EB9D607 adafruit-SOD-123 D40 D
   ( 1 N-000079 )
   ( 2 /ROW2 )
  )
- ( /4EB9D523 D D41 D
+ ( /4EB9D523 adafruit-SOD-123 D41 D
   ( 1 N-000202 )
   ( 2 /ROW3 )
  )
- ( /4EB9D551 D D42 D
+ ( /4EB9D551 adafruit-SOD-123 D42 D
   ( 1 N-000187 )
   ( 2 /ROW3 )
  )
- ( /4EB9D568 D D43 D
+ ( /4EB9D568 adafruit-SOD-123 D43 D
   ( 1 N-000166 )
   ( 2 /ROW3 )
  )
- ( /4EB9D58C D D44 D
+ ( /4EB9D58C adafruit-SOD-123 D44 D
   ( 1 N-000157 )
   ( 2 /ROW3 )
  )
- ( /4EB9D599 D D45 D
+ ( /4EB9D599 adafruit-SOD-123 D45 D
   ( 1 N-000176 )
   ( 2 /ROW3 )
  )
- ( /4EB9D5B1 D D46 D
+ ( /4EB9D5B1 adafruit-SOD-123 D46 D
   ( 1 N-000041 )
   ( 2 /ROW3 )
  )
- ( /4EB9D5BF D D47 D
+ ( /4EB9D5BF adafruit-SOD-123 D47 D
   ( 1 N-000057 )
   ( 2 /ROW3 )
  )
- ( /4EB9D5C6 D D48 D
+ ( /4EB9D5C6 adafruit-SOD-123 D48 D
   ( 1 N-000011 )
   ( 2 /ROW3 )
  )
- ( /4EB9D5E0 D D49 D
+ ( /4EB9D5E0 adafruit-SOD-123 D49 D
   ( 1 N-000032 )
   ( 2 /ROW3 )
  )
- ( /4EB9D5E7 D D50 D
+ ( /4EB9D5E7 adafruit-SOD-123 D50 D
   ( 1 N-000023 )
   ( 2 /ROW3 )
  )
- ( /4EB9D5F4 D D51 D
+ ( /4EB9D5F4 adafruit-SOD-123 D51 D
   ( 1 N-000089 )
   ( 2 /ROW3 )
  )
- ( /4EB9D5FB D D52 D
+ ( /4EB9D5FB adafruit-SOD-123 D52 D
   ( 1 N-000112 )
   ( 2 /ROW3 )
  )
- ( /4EB9D608 D D53 D
+ ( /4EB9D608 adafruit-SOD-123 D53 D
   ( 1 N-000082 )
   ( 2 /ROW3 )
  )
- ( /4EB9D52A D D54 D
+ ( /4EB9D52A adafruit-SOD-123 D54 D
   ( 1 N-000193 )
   ( 2 /ROW4 )
  )
- ( /4EB9D54E D D55 D
+ ( /4EB9D54E adafruit-SOD-123 D55 D
   ( 1 N-000192 )
   ( 2 /ROW4 )
  )
- ( /4EB9D56B D D56 D
+ ( /4EB9D56B adafruit-SOD-123 D56 D
   ( 1 N-000169 )
   ( 2 /ROW4 )
  )
- ( /4EB9D589 D D57 D
+ ( /4EB9D589 adafruit-SOD-123 D57 D
   ( 1 N-000160 )
   ( 2 /ROW4 )
  )
- ( /4EB9D59C D D58 D
+ ( /4EB9D59C adafruit-SOD-123 D58 D
   ( 1 N-000045 )
   ( 2 /ROW4 )
  )
- ( /4EB9D5AE D D59 D
+ ( /4EB9D5AE adafruit-SOD-123 D59 D
   ( 1 N-000047 )
   ( 2 /ROW4 )
  )
- ( /4EB9D5C2 D D60 D
+ ( /4EB9D5C2 adafruit-SOD-123 D60 D
   ( 1 N-000008 )
   ( 2 /ROW4 )
  )
- ( /4EB9D614 D D61 D
+ ( /4EB9D614 adafruit-SOD-123 D61 D
   ( 1 N-000075 )
   ( 2 /ROW4 )
  )
- ( /4EB9D613 D D62 D
+ ( /4EB9D613 adafruit-SOD-123 D62 D
   ( 1 N-000076 )
   ( 2 /ROW4 )
  )
- ( /4EB9D617 D D63 D
+ ( /4EB9D617 adafruit-SOD-123 D63 D
   ( 1 N-000069 )
   ( 2 /ROW4 )
  )
@@ -454,7 +454,7 @@
   ( 30 /COL9 )
   ( 31 /COL6 )
   ( 32 /COL7 )
-  ( 33 /HWB )
+  ( 33 ? )
   ( 34 VCC )
   ( 35 GND )
   ( 36 /COL5 )
@@ -590,11 +590,11 @@
   ( 2 +5V )
  )
  ( /5018CB5B adafruit-R0805 R4 3K
-  ( 1 /HWB )
+  ( 1 /MISO )
   ( 2 +5V )
  )
  ( /5018CB5A adafruit-R0805 R5 3K
-  ( 1 /SCK )
+  ( 1 /MOSI )
   ( 2 +5V )
  )
  ( /4EE20DBE adafruit-R0805 R6 22
@@ -679,11 +679,11 @@
   ( 3 ? )
   ( 4 ? )
  )
- ( /5018B35C DIPS-DS03 SW1 DIPS_04
+ ( /5018B35C DIPS-DS04 SW1 DIPS_04
   ( 1 /DIP0 )
   ( 2 /DIP1 )
-  ( 3 /HWB )
-  ( 4 /SCK )
+  ( 3 /MISO )
+  ( 4 /MOSI )
   ( 5 GND )
   ( 6 GND )
   ( 7 GND )

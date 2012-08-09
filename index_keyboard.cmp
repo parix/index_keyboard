@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPCB (2011-07-08 BZR 3044)-stable date = 8/7/2012 10:51:04 PM
+Cmp-Mod V01 Created by CvPCB (2011-07-08 BZR 3044)-stable date = 8/8/2012 8:47:25 PM
 
 BeginCmp
 TimeStamp = /4EB9D553;
@@ -123,182 +123,182 @@ BeginCmp
 TimeStamp = /4EB9D34A;
 Reference = D1;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D556;
 Reference = D2;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D563;
 Reference = D3;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D591;
 Reference = D4;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D594;
 Reference = D5;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5B6;
 Reference = D6;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5BA;
 Reference = D7;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5CB;
 Reference = D8;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5DB;
 Reference = D9;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5EC;
 Reference = D10;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5EF;
 Reference = D11;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D600;
 Reference = D12;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D603;
 Reference = D13;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D518;
 Reference = D14;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D555;
 Reference = D15;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D564;
 Reference = D16;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D590;
 Reference = D17;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D595;
 Reference = D18;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5B5;
 Reference = D19;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5BB;
 Reference = D20;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5CA;
 Reference = D21;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5DC;
 Reference = D22;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5EB;
 Reference = D23;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5F0;
 Reference = D24;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5FF;
 Reference = D25;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D604;
 Reference = D26;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
@@ -312,252 +312,252 @@ BeginCmp
 TimeStamp = /4EB9D51F;
 Reference = D28;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D552;
 Reference = D29;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D567;
 Reference = D30;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D58D;
 Reference = D31;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D598;
 Reference = D32;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5B2;
 Reference = D33;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5BE;
 Reference = D34;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5C7;
 Reference = D35;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5DF;
 Reference = D36;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5E8;
 Reference = D37;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5F3;
 Reference = D38;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5FC;
 Reference = D39;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D607;
 Reference = D40;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D523;
 Reference = D41;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D551;
 Reference = D42;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D568;
 Reference = D43;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D58C;
 Reference = D44;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D599;
 Reference = D45;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5B1;
 Reference = D46;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5BF;
 Reference = D47;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5C6;
 Reference = D48;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5E0;
 Reference = D49;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5E7;
 Reference = D50;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5F4;
 Reference = D51;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5FB;
 Reference = D52;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D608;
 Reference = D53;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D52A;
 Reference = D54;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D54E;
 Reference = D55;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D56B;
 Reference = D56;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D589;
 Reference = D57;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D59C;
 Reference = D58;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5AE;
 Reference = D59;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D5C2;
 Reference = D60;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D614;
 Reference = D61;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D613;
 Reference = D62;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /4EB9D617;
 Reference = D63;
 ValeurCmp = D;
-IdModule  = D;
+IdModule  = adafruit-SOD-123;
 EndCmp
 
 BeginCmp
@@ -928,7 +928,7 @@ BeginCmp
 TimeStamp = /5018B35C;
 Reference = SW1;
 ValeurCmp = DIPS_04;
-IdModule  = DIPS-DS03;
+IdModule  = DIPS-DS04;
 EndCmp
 
 BeginCmp

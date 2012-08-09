@@ -1,13 +1,12 @@
-EESchema Schematic File Version 2  date 7/31/2012 11:28:16 PM
+EESchema Schematic File Version 2  date 8/8/2012 8:43:13 PM
 LIBS:index_keyboard
-LIBS:index_keyboard-cache
 EELAYER 25  0
 EELAYER END
 $Descr A4 11700 8267
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "1 aug 2012"
+Date "9 aug 2012"
 Rev ""
 Comp ""
 Comment1 ""
@@ -961,7 +960,7 @@ F 1 "DIPS_04" V 8850 4650 60  0000 C CNN
 	0    1    1    0   
 $EndComp
 Text Label 8200 5350 0    70   ~ 0
-SCK
+MOSI
 Text Label 8300 5150 0    70   ~ 0
 DIP1
 Text Label 8350 5050 0    70   ~ 0
@@ -1043,7 +1042,7 @@ COL1
 Text Label 650  4050 0    70   ~ 0
 COL0
 Text Label 8250 5250 0    70   ~ 0
-HWB
+MISO
 $Comp
 L +5V #PWR7
 U 1 1 501490C6
